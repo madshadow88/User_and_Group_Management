@@ -4,8 +4,8 @@ Bash script for managing users and groups for Linux OS
 
 Group Create<br>
 Group Edit<br>
-Group Delete
-
-User Create
-User Edit
-User Delete
+Group Delete<br>
+<br><br>
+User Create<br>
+User Edit<br>
+User Delete<br>
